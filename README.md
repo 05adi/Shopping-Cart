@@ -42,4 +42,4 @@ store.subscribe(() => {
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/05adi/your-repo-name.git](https://github.com/05adi/your-repo-name.git)
+   git clone [https://github.com/05adi/Shopping-Cart](https://github.com/05adi/Shopping-Cart)
